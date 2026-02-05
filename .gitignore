@@ -1,0 +1,11 @@
+node_modules/
+#Terraform generated files
+**/.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+
+#Environment variables
+.env
+
+.DS_Store
